@@ -4,7 +4,7 @@
 #
 Name     : cursive
 Version  : 0.2.2
-Release  : 17
+Release  : 18
 URL      : https://files.pythonhosted.org/packages/aa/ec/d0e802482530a0b664c910c845cada1e490bc2af568acc0c1ed55c000502/cursive-0.2.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/aa/ec/d0e802482530a0b664c910c845cada1e490bc2af568acc0c1ed55c000502/cursive-0.2.2.tar.gz
 Summary  : Cursive implements OpenStack-specific validation of digital signatures.
